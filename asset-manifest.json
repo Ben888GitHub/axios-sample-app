@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/opensea-nft-testing/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/opensea-nft-testing/static/js/main.3449e32c.chunk.js",
-    "main.js.map": "/opensea-nft-testing/static/js/main.3449e32c.chunk.js.map",
-    "runtime-main.js": "/opensea-nft-testing/static/js/runtime-main.7264bac0.js",
-    "runtime-main.js.map": "/opensea-nft-testing/static/js/runtime-main.7264bac0.js.map",
-    "static/js/2.5b7380a7.chunk.js": "/opensea-nft-testing/static/js/2.5b7380a7.chunk.js",
-    "static/js/2.5b7380a7.chunk.js.map": "/opensea-nft-testing/static/js/2.5b7380a7.chunk.js.map",
-    "static/js/3.63029a2c.chunk.js": "/opensea-nft-testing/static/js/3.63029a2c.chunk.js",
-    "static/js/3.63029a2c.chunk.js.map": "/opensea-nft-testing/static/js/3.63029a2c.chunk.js.map",
-    "index.html": "/opensea-nft-testing/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/opensea-nft-testing/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5b7380a7.chunk.js.LICENSE.txt": "/opensea-nft-testing/static/js/2.5b7380a7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/opensea-nft-testing/static/media/logo.6ce24c58.svg"
+    "main.css": "/axios-sample-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/axios-sample-app/static/js/main.3449e32c.chunk.js",
+    "main.js.map": "/axios-sample-app/static/js/main.3449e32c.chunk.js.map",
+    "runtime-main.js": "/axios-sample-app/static/js/runtime-main.2155de62.js",
+    "runtime-main.js.map": "/axios-sample-app/static/js/runtime-main.2155de62.js.map",
+    "static/js/2.5b7380a7.chunk.js": "/axios-sample-app/static/js/2.5b7380a7.chunk.js",
+    "static/js/2.5b7380a7.chunk.js.map": "/axios-sample-app/static/js/2.5b7380a7.chunk.js.map",
+    "static/js/3.63029a2c.chunk.js": "/axios-sample-app/static/js/3.63029a2c.chunk.js",
+    "static/js/3.63029a2c.chunk.js.map": "/axios-sample-app/static/js/3.63029a2c.chunk.js.map",
+    "index.html": "/axios-sample-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/axios-sample-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5b7380a7.chunk.js.LICENSE.txt": "/axios-sample-app/static/js/2.5b7380a7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/axios-sample-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7264bac0.js",
+    "static/js/runtime-main.2155de62.js",
     "static/js/2.5b7380a7.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.3449e32c.chunk.js"
